@@ -2,7 +2,7 @@
 
 # 🦠 Covid-19 India Portal API
 
-This project is a backend REST API built using **Node.js**, **Express.js**, and **SQLite**. It manages Covid-19 data for different states and districts in India with secure user authentication using **JWT (JSON Web Token)**.
+This project is a backend REST API built using **Node.js**, **Express.js**, and **SQLite**. It manages Covid-19 data for different states and districts in India with secure user bcrypt and  authentication using **JWT (JSON Web Token)**.
 
 ---
 
